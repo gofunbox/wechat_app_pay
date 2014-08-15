@@ -1,9 +1,9 @@
 wechat_app_pay
 ==============
 
-微信APP支付PHP服务端
+最新微信APP支付PHP服务端SDK
 
-移步http://www.funboxpower.com/821.html
+详细说明介绍，请移步http://www.funboxpower.com/821.html
 
 懒得再写一遍了~
 
